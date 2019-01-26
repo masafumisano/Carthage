@@ -1,4 +1,6 @@
 {
+    "216.0.1": "https://developer.salesforce.com/files/service_sdk_ios/216.0.1/ServiceSDK-216.0.1.zip",
+    "216.0.0": "https://developer.salesforce.com/files/service_sdk_ios/216.0.0/ServiceSDK-216.0.0.zip",
     "214.0.4": "https://developer.salesforce.com/files/service_sdk_ios/214.0.4/ServiceSDK-214.0.4.zip",
     "212.0.4": "https://developer.salesforce.com/files/service_sdk_ios/212.0.4/ServiceSDK-212.0.4.zip"
 }
